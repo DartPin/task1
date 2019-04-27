@@ -1,6 +1,10 @@
-# first-project
+# Summ-this-numbers
 
-> A Vue.js project
+This is a VueJS project. In this project: 
+1. you may write couple of numbers, press button "Summ" and will see summ of this number.
+2. If you will write incorrect value or won't write value, you will see alert message with text of error
+
+
 
 ## Build Setup
 
